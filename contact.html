@@ -2,7 +2,7 @@
 title: Contact
 call_to_action: Map
 background_image_path:
-large_header: false
+large_header: true
 show_in_navigation: true
 navigation_order: 3
 map:
@@ -12,8 +12,32 @@ map:
 ---
 
 <p class="editable">
-	Come see us in person, give us a call, or send us a message with your details and we'll be in contact shortly after. No obligations and your first meeting is free.
+	Give us a call, or send us a message, or join us at one of our in person tech support events. 
 </p>
+
+Call Center Hours: 
+<table>
+  <tr>
+    <th>Day</th>
+    <th>Begin</th>
+    <th>End</th>
+  </tr>
+  <tr>
+    <td>Friday</td>
+    <td>4:00 PM/td>
+    <td>8:00 PM</td>
+  </tr>
+  <tr>
+    <td>Saturday</td>
+    <td>8:00 AM</td>
+    <td>8:00 PM</td>
+  </tr>
+  <tr>
+    <td>Sunday</td>
+    <td>4:00 PM</td>
+    <td>8:00 PM</td>
+  </tr>
+</table>
 
 <div class="columns">
 	<div class="column">
@@ -25,10 +49,10 @@ map:
 		<label>Email Address</label>
 		<p class="contact-info"><a href="mailto:{{ site.data.company.contact_email_address }}">{{ site.data.company.contact_email_address }}</a></p>
 
-		<label>Postal Address</label>
+		<!--<label>Postal Address</label>
 		<address class="contact-info">{{ site.data.company.postal_address | replace: ',', '<br>' }}</address>
 		<label>Address</label>
-		<address class="contact-info">{{ site.data.company.address | replace: ',', '<br>' }}</address>
+		<address class="contact-info">{{ site.data.company.address | replace: ',', '<br>' }}</address>-->
 	</div>
 
 	<div class="column">
