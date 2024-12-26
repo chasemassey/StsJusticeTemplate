@@ -1,5 +1,5 @@
-#- title: Pages
-#  links:
+- title: Pages
+  links:
     - name: Home
       link: /
     - name: About
@@ -8,8 +8,8 @@
       link: /services/
     - name: Contact
       link: /contact/
-#    - name: Blog
-#      link: /blog/
+#   - name: Blog
+#     link: /blog/
 #- title: Social
 #  links:
 #    - name: Facebook
@@ -17,7 +17,7 @@
 #      social_icon: Facebook
 #      new_window: true
 #    - name: Twitter
-#     link: http://twitter.com/cloudcannon
+#      link: http://twitter.com/cloudcannon
 #      social_icon: Twitter
 #      new_window: true
 #    - name: Instagram
