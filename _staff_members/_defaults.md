@@ -1,6 +1,6 @@
 ---
 name:
-image: "https://placehold.it/440/440?a=.png"
+image: "https://icons8.com/icon/20389/imac"
 credentials:
 phone_extension:
 ---
