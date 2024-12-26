@@ -9,7 +9,7 @@ google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo: <a target="_blank" href="https://icons8.com/icon/20389/imac">Computer</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 description: Jekyll template with example content for a law firm.
 author:
   name:
