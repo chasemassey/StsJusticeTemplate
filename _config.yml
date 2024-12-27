@@ -37,8 +37,8 @@ defaults:
       path: ""
     values:
       layout: page
-      background_image_path: 
-      image: 
+      background_image_path: /Elder.jpg
+      image: /Elder.jpg
   -
     scope:
       path: ""
